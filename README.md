@@ -19,13 +19,13 @@ Using unsupervised machine learning to discover trends in cryptocurrency to assi
 
 #### 2. Reducing Data Dimensions Using PCA
 
-- [Line[13] - Line[14](Resources/crypto_data.csv)
+- [Line[13] - Line[14]](Resources/crypto_data.csv)
 
 <img src="Resources/reduce_dimensions.PNG"/>
 
 #### 3. Custering Cryptocurrencies using and K-Means algorithm 
 
-<img src="Resources/elbow_curve.PNG"/>
+<img src="Resources/elbow_curve.png"/>
 
 - [Line[16] Predictions with k=4](Resources/crypto_data.csv)
 
@@ -33,8 +33,8 @@ Using unsupervised machine learning to discover trends in cryptocurrency to assi
 
 ### 4. Visualizing Cryptocurrencies Results
 
-<img src="Resources/3d_scatter.PNG"/>
+<img src="Resources/3d_scatter.png"/>
 
-<img src="Resources/2d_scatter.PNG"/>
+<img src="Resources/2d_scatter.png"/>
 
 
