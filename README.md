@@ -27,7 +27,7 @@ Using unsupervised machine learning to discover trends in cryptocurrency to assi
 
 <img src="Resources/elbow_curve.png"/>
 
-- Predictions with k=4 [Line[16]](crypto_clustering.ipynb)
+- [Line[16]](crypto_clustering.ipynb): Predictions with k=4 
 
 <img src="Resources/predictions.PNG"/>
 
