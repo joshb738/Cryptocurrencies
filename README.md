@@ -25,13 +25,17 @@ Using unsupervised machine learning to discover trends in cryptocurrency to assi
 
 #### 3. Custering Cryptocurrencies using and K-Means algorithm 
 
+- [Line[15] - Line[17]](crypto_clustering.ipynb)
+
 <img src="Resources/elbow_curve.png"/>
 
-- [Line[16]](crypto_clustering.ipynb): Predictions with k=4 
+- Predictions with k=4 
 
 <img src="Resources/predictions.PNG"/>
 
 #### 4. Visualizing Cryptocurrencies Results
+
+- [Line[18] - Line[23]](crypto_clustering.ipynb)
 
 <img src="Resources/3d_scatter.png"/>
 
